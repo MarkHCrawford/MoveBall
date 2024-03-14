@@ -1,7 +1,9 @@
 # Unity Lab 7B / Mark Crawford
-- Simple program with capsule sprite, WASD 2d movement, bounds checking.
+- Simple program with capsule sprite
+- WASD 2d movement
+- bounds checking
 
 
-## For
+# Class
 CSC 350H
 Professor Tang
